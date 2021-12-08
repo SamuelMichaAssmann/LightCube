@@ -6,8 +6,8 @@ There are two levels of difficulty, it starts with a light ring that switches be
 
 # Branch "LEVEL_1":
 
-![schematic drawing](https://github.com/SamuelMichaAssmann/LightCube/blob/LEVEL_1/image.jpg?raw=true)
+![schematic drawing](https://github.com/SamuelMichaAssmann/LightCube/blob/LEVEL_1/image.png?raw=true)
 
 # Branch "LEVEL_2":
 
-![schematic drawing](https://github.com/SamuelMichaAssmann/LightCube/blob/LEVEL_2/image.jpg?raw=true)
+![schematic drawing](https://github.com/SamuelMichaAssmann/LightCube/blob/LEVEL_2/image.png?raw=true)
